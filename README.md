@@ -132,7 +132,7 @@ cd game-day-notifications
 4. Verify that SMS notifications are sent to the subscribed users.
 
 
-### **What We Learned**
+### **Lessons Learned**
 1. Designing a notification system with AWS SNS and Lambda.
 2. Securing AWS services with least privilege IAM policies.
 3. Automating workflows using EventBridge.
